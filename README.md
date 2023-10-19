@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominic Roman</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicrg&label=Profile%20views&color=0e75b6&style=flat" alt="dominicrg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicrg" alt="dominicrg" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dominicroman07" target="blank"><img src="https://img.shields.io/twitter/follow/dominicroman07?logo=twitter&style=for-the-badge" alt="dominicroman07" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Framework with Spring Boot**
@@ -28,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominicrg&show_icons=true&locale=en&layout=compact" alt="dominicrg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominicrg&show_icons=true&locale=en" alt="dominicrg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominicrg&" alt="dominicrg" /></p>
