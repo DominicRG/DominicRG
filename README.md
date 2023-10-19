@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic Roman</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
+I am a backend software developer passionate about technology and constantly learning.
+I always seek to work as a team, cooperating with everyone and supporting in the best way, I am passionate about the logical and analytical part of the projects, with great satisfaction in constantly teaching and learning
 
 <p align="left"> <a href="https://twitter.com/dominicroman07" target="blank"><img src="https://img.shields.io/twitter/follow/dominicroman07?logo=twitter&style=for-the-badge" alt="dominicroman07" /></a> </p>
 
